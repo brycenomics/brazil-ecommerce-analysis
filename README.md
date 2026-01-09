@@ -80,6 +80,15 @@
 - **需要编辑报告**：下载[Word版本](./分析报告/分析报告.docx)
 - **研究分析方法**：查看[sql.md](./sql.md)中的详细步骤
 
+## 🌐 多平台访问
+
+为方便不同网络环境访问，本项目同步至：
+
+| 平台 | 链接 | 特点 |
+|------|------|------|
+| **GitHub** | [brycenomics/brazil-ecommerce-analysis](https://github.com/brycenomics/brazil-ecommerce-analysis.git) | 国际标准，技术圈认可度高 |
+| **Gitee** | [brycenomics/brazil-ecommerce-analysis](https://gitee.com/brycenomics/brazil-ecommerce-analysis.git) | 国内访问速度快且稳定 |
+
 ## 📊 分析流程概述
 
 ```mermaid
